@@ -1,0 +1,31 @@
+@charset "utf-8";
+.navbar-nav.mr-auto .nav-item .nav-link {
+	color: #212529;
+}
+#navbar .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+}
+.carousel-caption .text-left .btn.btn-outline-success.active {
+	background-color: #1F4740;
+}
+.container-fluid-d {
+	background-color: #CDDABE;
+}
+.card.col-md- .card-body .btn.btn-primary {
+	background-color: #939E1E;
+}
+
+.container-fluid {
+	background-color: #CDDABE;
+}
+.col-xl-4 .card.col-md- .card-body {
+}
+.container-fluid-a {
+	background-color: #DCB9B9;
+	border-color: #C9E5CC;
+}
+.container-fluid-a {
+	background-color: #CDDABE;
+}
+#navbar .navbar-nav.mr-auto .nav-item {
+	background-color: #FFFFFF;
+}
